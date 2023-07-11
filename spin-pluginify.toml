@@ -1,0 +1,6 @@
+name = "module-badger"
+version = "0.0.1"
+description = "Checks for updates to URL-referenced Wasm modules"
+spin_compatibility = ">=1.4"
+license = "Apache-2.0"
+package = "./target/release/module-badger"
